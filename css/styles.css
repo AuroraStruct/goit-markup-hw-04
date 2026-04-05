@@ -501,7 +501,9 @@ color: #434455;
 }
 
 
-.portfolio-card-wrapper{border-style: solid; border-width: 0 1px 1px 1px;border-color: #E7E9FC; padding: 32px 16px}
+.portfolio-card-wrapper
+
+{border-style: solid; border-width: 0 1px 1px 1px;border-color: #E7E9FC; padding: 32px 16px}
 
 .portfolio-list {
   display: flex;
